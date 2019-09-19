@@ -73,5 +73,5 @@ GCOXIN API 是交易所面向外部开发者提供的开发接口。
 
 ```
 如需帮助请通过以下方式联系我们：
-1.email:exchange@gcox.com 
+1.email:it.support@gcoxin.com 
 ```
